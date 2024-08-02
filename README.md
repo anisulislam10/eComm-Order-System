@@ -1,0 +1,3 @@
+covered all requierement focuses on backend.. backend ready frontend 80% ready and integeration 50%.. I need more time to complete the code fully functional....
+frontend >>>> open folder to see complete frontend 
+frontend >>>>  open folder to see complete Backend
